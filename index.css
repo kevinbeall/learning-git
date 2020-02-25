@@ -1,0 +1,12 @@
+body {
+  background-color: purple;
+  color: white;
+}
+
+.modal {
+  display: none;
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  color: black;
+}
